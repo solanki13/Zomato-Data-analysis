@@ -12,7 +12,7 @@ Zomato is a restaurant discovery and food delivery platform. This project focuse
 -Relationship between votes and ratings
 -The project aims to provide business intelligence that could help restaurant chains, food bloggers, and data analysts better understand food trends.
 
-**Data Sources**
+
 
 **Zomato Dataset:** Contains restaurant-level information including:
 -Name,	
